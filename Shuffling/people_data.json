@@ -1,0 +1,92 @@
+[
+    {
+        "country": "Chile",
+        "name": "Martin Nelson DVM",
+        "age": 52,
+        "ssn": "611-52-2358",
+        "height": 194,
+        "gender": "F",
+        "company": "Simmons, Young and Smith"
+    },
+    {
+        "country": "Aruba",
+        "name": "Joshua Davis Jr.",
+        "age": 4,
+        "ssn": "649-03-4257",
+        "height": 154,
+        "gender": "F",
+        "company": "Smith Ltd"
+    },
+    {
+        "country": "Anguilla",
+        "name": "Dylan Conway",
+        "age": 9,
+        "ssn": "237-59-8672",
+        "height": 207,
+        "gender": "M",
+        "company": "Rose PLC"
+    },
+    {
+        "country": "Angola",
+        "name": "Eric Nelson",
+        "age": 78,
+        "ssn": "845-13-8780",
+        "height": 191,
+        "gender": "F",
+        "company": "Mccarthy LLC"
+    },
+    {
+        "country": "Suriname",
+        "name": "Cynthia King",
+        "age": 8,
+        "ssn": "248-34-7840",
+        "height": 186,
+        "gender": "F",
+        "company": "Wheeler LLC"
+    },
+    {
+        "country": "United States Virgin Islands",
+        "name": "Howard Kelly",
+        "age": 67,
+        "ssn": "196-79-7513",
+        "height": 160,
+        "gender": "F",
+        "company": "Turner-Newton"
+    },
+    {
+        "country": "Botswana",
+        "name": "Larry Graham",
+        "age": 68,
+        "ssn": "017-61-9041",
+        "height": 178,
+        "gender": "F",
+        "company": "Martin, Thornton and Wagner"
+    },
+    {
+        "country": "Australia",
+        "name": "Jamie Perez",
+        "age": 18,
+        "ssn": "885-56-7425",
+        "height": 209,
+        "gender": "F",
+        "company": "Neal-Torres"
+    },
+    {
+        "country": "Azerbaijan",
+        "name": "Troy Jones",
+        "age": 71,
+        "ssn": "579-25-1784",
+        "height": 187,
+        "gender": "F",
+        "company": "Burgess-Hernandez"
+    },
+    {
+        "country": "Taiwan",
+        "name": "Nathaniel Garcia",
+        "age": 3,
+        "ssn": "781-38-5424",
+        "height": 146,
+        "gender": "F",
+        "company": "Crawford-Smith"
+    }
+]
