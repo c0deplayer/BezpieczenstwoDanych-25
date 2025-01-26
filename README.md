@@ -1,5 +1,8 @@
 # Anonymizacja Danych
 
+>[!NOTE]
+>Wersja Pythona zalecana do uruchomienia skryptów powinna wynosić 3.11 lub wyższa.
+
 ## Konfiguracja środowiska
 
 W celu uruchomienia skryptów należy zainstalować wymagane biblioteki. W tym celu należy wykonać poniższe polecenie:
