@@ -476,7 +476,7 @@ class TypeAwareDualKeyAnonymizer(BitwiseDualKeyAnonymizer):
             if len(parts) != 3 or parts[0] != self.TOKEN_PREFIX:
                 raise ValueError("Invalid token format")
 
-            prefix, version, combined_data = parts
+            _, version, combined_data = parts
             type_marker, data = combined_data[0], combined_data[1:]
             if version != f"V{self.TOKEN_VERSION}":
                 raise ValueError(f"Unsupported token version: {version}")
