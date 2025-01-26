@@ -15,7 +15,16 @@ from Shuffling.anonymizer import deanonimizacja as shuffle_deanonymize
 
 
 # Function to generate test data
-def generate_test_data(size):
+def generate_test_data(size: int) -> pd.DataFrame:
+    """Generate test data for performance testing.
+
+    Args:
+        size: Number of rows to generate
+
+    Returns:
+        DataFrame with test data
+
+    """
     return pd.DataFrame(
         {
             "name": ["Test" + str(i) for i in range(size)],
