@@ -16,7 +16,7 @@ pyparsing==3.2.1
 python-dateutil==2.9.0.post0
 pytz==2024.2
 seaborn==0.13.2
-setuptools==75.8.0
+setuptools==78.1.1
 six==1.17.0
 typing-extensions==4.12.2
 tzdata==2025.1
